@@ -1,5 +1,4 @@
-# Hi, I'm Bartosz! 👋
-Aspiring programmer.
+# Hi! 👋
 
 
 [![](https://www.codewars.com/users/babiarzu/badges/large
